@@ -22,10 +22,11 @@ Python:
 
 💬 Ask me about anything, really!
 
-📫 How to reach me: 
-LinkedIn: https://www.linkedin.com/in/aline-r-pereira/
-Github: https://github.com/alinerp90
-Gmail: aline.rp1990@gmail.com
+📫 How to reach me:
+
+LinkedIn:  https://www.linkedin.com/in/aline-r-pereira/
+Github:  https://github.com/alinerp90
+Gmail:  aline.rp1990@gmail.com
 
 ⚡ Fun fact: 
 I am from Brazil, but I already lived in 3 Countries: Brazil and Ireland for 8 months and then I moved to England - UK, in 2020.
