@@ -2,10 +2,6 @@
 
 I am Aline, a Software Engineer currently enhancing my knowledge through a BootCamp! I started my journey last November, and I am currently in love with Python.
 
-🔭 Expertise:
--Python.
--Version Control: Git and Github.
-
 🌱 Currently learning:
 Python:
 - String handling
@@ -30,4 +26,4 @@ Gmail:  aline.rp1990@gmail.com
 
 ⚡ Fun fact: 
 I am from Brazil, but I already lived in 3 Countries: Brazil and Ireland for 8 months and then I moved to England - UK, in 2020.
-I Graduated in Occupational Therapy, but I always loved tech. This year, I finally took courage and started my career transitioning.
+I Graduated in Occupational Therapy, but I always loved tech. This year, I finally took courage and started transitioning my career.
