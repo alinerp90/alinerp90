@@ -13,6 +13,7 @@ Python:
 - Programming with User-defined Functions
 - Object Oriented Programming - Classes
 - Version Control and Git
+- Pandas
 
 👯 I’m looking to collaborate on Python Projects and open to chat about tech
 
@@ -25,5 +26,5 @@ Github:  https://github.com/alinerp90
 Gmail:  aline.rp1990@gmail.com
 
 ⚡ Fun fact: 
-I am from Brazil, but I already lived in 3 Countries: Brazil and Ireland for 8 months and then I moved to England - UK, in 2020.
-I Graduated in Occupational Therapy, but I always loved tech. This year, I finally took courage and started transitioning my career.
+I am from Brazil, but I already lived in 3 Countries: Brazil (since I was born), Ireland for 8 months, and then I moved to England - UK, in 2020.
+I Graduated in Occupational Therapy, but I always loved tech. This year, I finally took courage and started transitioning into my career.
